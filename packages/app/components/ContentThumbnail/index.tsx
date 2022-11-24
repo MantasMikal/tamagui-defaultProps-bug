@@ -17,13 +17,10 @@ const ContentThumbnail = () => {
       <YStack
         width="100%"
         height="100%"
-        alignItems="center"
-        justifyContent="center"
+        ai="center"
+        jc="center"
         zIndex="$1"
         position="absolute"
-        hoverStyle={{
-          scale: 1.1,
-        }}
       >
         <Text>Play</Text>
       </YStack>

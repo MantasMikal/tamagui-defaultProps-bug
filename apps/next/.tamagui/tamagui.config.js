@@ -24499,11 +24499,6 @@ var config = (0, import_ui.createTamagui)({
     tall: { minHeight: 820 },
     hoverNone: { hover: "none" },
     pointerCoarse: { pointer: "coarse" }
-  },
-  defaultProps: {
-    Text: {
-      textDecoration: "underline"
-    }
   }
 });
 
